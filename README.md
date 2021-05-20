@@ -49,6 +49,7 @@ INSERT INTO EMPLOYEES VALUES(5, "Sebastian", "M", 26, 4);
 INSERT INTO EMPLOYEES VALUES(6, "Elena", "F", 35, 3);
 INSERT INTO EMPLOYEES VALUES(7, "Pedro", "U", 24, 4);
 INSERT INTO EMPLOYEES VALUES(8, "Elisa", "F", 45, 3);
+INSERT INTO EMPLOYEES VALUES(8, "Mariela", "F", 32, 3);
 ```
 Ahora se tienen las tablas:
 #### JOBS

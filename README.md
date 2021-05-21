@@ -108,3 +108,5 @@ Lo que devuelve lo siguente:
 Maestro/a
 Deportista
 ```
+#### Captura de Pantalla
+![Captura](https://raw.githubusercontent.com/stompy-lizard/Laboratorio5/main/cli.png)
